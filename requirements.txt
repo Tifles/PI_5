@@ -1,0 +1,8 @@
+httpx
+fastapi
+pytest
+sentencepiece
+sacremoses
+torch
+transformers
+uvicorn
